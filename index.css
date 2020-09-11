@@ -62,8 +62,7 @@ h1 {
 nav a {
     text-decoration:none;
     margin:1rem 10rem;
-    width:5%;
-    font-size:2rem;
+    font-size:2.5rem;
     font:sans-serif;
     padding:1rem;
 }
@@ -99,7 +98,7 @@ header .involved {
 .theStrip {
     height:20rem;
     width:auto;
-    margin:3rem 2rem;
+    margin:2rem 2rem;
     background-color:#DDB9A3;
     padding: 1rem 1rem;
     font-size:3rem;
@@ -109,24 +108,24 @@ header .involved {
 #fire {
     margin-left:45rem;
     margin-right:45rem;
-    width:10rem;
-    height:18rem;
+    width:15rem;
+    height:25rem;
 }
 #camper {
     margin-left:45rem;
     margin-right:45rem;
-    width:10rem;
-    height:18rem;
+    width:15rem;
+    height:25rem;
 }
 .heading {
     display:inline-block;
     height:2rem;
-    font-size:3.5rem;
+    font-size:3.8rem;
     font-family: 'Chelsea Market', cursive;
 }
 body {
     margin: 0 27rem;
-    border: dashed 2px dodgerblue;
+    /*border: dashed 2px dodgerblue;*/
     height:180vh;
 }
 
@@ -159,4 +158,10 @@ footer .involved {
 div {
     display:inline-block;
     text-align:center;
+}
+.para {
+    font-size:2rem;
+}
+.lastTry {
+    margin-top:2.5rem;
 }
